@@ -33,4 +33,4 @@ To run the project locally, follow these steps:
 
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
 
-<img width="528" src="">
+<img width="528" src="https://github.com/abhinav1karthik/LSTM-Stock-Forecaster/blob/main/results.png">
